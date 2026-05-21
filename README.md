@@ -1,4 +1,4 @@
-# finflow-fp-dashboard
+# fp-dashboard
 
 A React dashboard for Finance Partners (FP) providing a daily financial report across three views — Product Performance Summary, Transactions, and Receivable Tracker. Data is fetched dynamically via template-based API queries.
 
